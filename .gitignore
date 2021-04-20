@@ -1,0 +1,7 @@
+.idea
+*.iml
+.gitignore
+workspace.xml
+out
+gen
+/.idea/workspace.xml
